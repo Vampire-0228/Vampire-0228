@@ -1,6 +1,4 @@
-Here is the updated code block with your username **Vampire-0228** correctly applied to all links. You can copy and paste this directly into your `Vampire-0228/Vampire-0228` repository's `README.md` file.
 
-```markdown
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IRUDHAYA+VISHVA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Developer+%7C+Building+Scalable+Android+%26+Embedded+Solutions&descAlignY=62&descSize=16)
 
 <div align="center">
@@ -13,14 +11,13 @@ Here is the updated code block with your username **Vampire-0228** correctly app
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```java
 public class Profile {
     String name = "Irudhaya Vishva";
     String location = "Tiruppur, India";
     String degree = "B.E. Computer Science & Engineering";
     String[] stack = {"Java", "Kotlin", "Dart", "Flutter", "Firebase"};
     
-    public String motto() {
+public String motto() {
         return "Writing clean code to solve complex problems.";
     }
 }
