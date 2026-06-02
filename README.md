@@ -11,12 +11,13 @@
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
 ```java
-public class Developer {
+public class Profile {
     String name = "Irudhaya Vishva";
-    String focus = "Android & Embedded Systems";
-    String[] skills = {"Kotlin", "Java", "Dart", "Flutter", "Firebase"};
+    String location = "Tiruppur, India";
+    String degree = "B.E. Computer Science & Engineering";
+    String[] stack = {"Java", "Kotlin", "Dart", "Flutter", "Firebase"};
     
-    public void mission() {
-        System.out.println("Building scalable solutions through clean code.");
+    public String motto() {
+        return "Writing clean code to solve complex problems.";
     }
 }
