@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=IRUDHAYA+VISHVA&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software+Developer+%7C+Building+Scalable+Android+%26+Embedded+Solutions&descAlignY=62&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&animation=twinkling)
 
 <div align="center">
 
